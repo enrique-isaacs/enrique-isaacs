@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enrique</h1>
 <h3 align="center">A tech-junkie from Cape Town</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Systems Integration**
+- 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **Java, Python, Git, Star Wars, Pokemon**
+- 💬 Ask me about **Code, Pokemon or Star Wars**
 
-- 📫 How to reach me **https://www.linkedin.com/in/enrique-isaacs-code-enthusiast/ enisaacs21@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/enrique-isaacs-code-enthusiast/ | enisaacs21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
